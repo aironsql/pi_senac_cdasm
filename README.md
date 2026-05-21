@@ -57,4 +57,4 @@ Identificar padrões relacionados ao absenteísmo corporativo e gerar insights q
 
 ## Autores
 
-Projeto desenvolvido por Airon Leonardo do Monte Rufino(demais colegas), para o Projeto Integrador do curso de Banco de Dados.
+Projeto desenvolvido por Airon Leonardo do Monte Rufino, João Pedro lopes dos Santos (demais colegas), para o Projeto Integrador do curso de Banco de Dados.
